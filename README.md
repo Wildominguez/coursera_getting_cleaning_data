@@ -10,8 +10,8 @@ The original data was modified follows:
 - Columns that did not represent average or standard deviation of the original data were eliminated.
   This included mean calculations that were obtained by signal window sampling and the mean frequency
   as it was calculated through weighted averages of the frequency components.
-- The training and testing datasets were merged into one data set (data1.csv)
-- The average of each activity by subject was calculated (data2.csv)
+- The training and testing datasets were merged into one data set (data1.txt)
+- The average of each activity by subject was calculated (data2.txt)
 
 Files included:
 - readme.txt: This file.
