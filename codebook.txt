@@ -1,0 +1,37 @@
+Variables:
+
+- subject: 1 of 30 individuals that participated in the study
+- activity: 1 of 6 activites that the participants performed while data was being collected
+- The rest of the variables are described by:
+
+tBodyAcc-XYZ
+tGravityAcc-XYZ
+tBodyAccJerk-XYZ
+tBodyGyro-XYZ
+tBodyGyroJerk-XYZ
+tBodyAccMag
+tGravityAccMag
+tBodyAccJerkMag
+tBodyGyroMag
+tBodyGyroJerkMag
+fBodyAcc-XYZ
+fBodyAccJerk-XYZ
+fBodyGyro-XYZ
+fBodyAccMag
+fBodyAccJerkMag
+fBodyGyroMag
+fBodyGyroJerkMag
+
+
+   where "t" denotes time
+         "Body" represents the acceleration of the subject, 
+         "Gravity" represents the acceleration of the gravitational pull,
+         "Acc" represents accelerometer readings
+         "gyro" represents gyroscope 3-axial (-X -Y -Z directions) signals
+         "Jerk" represents the signal body linear acceleration and angular velocity derived over time,
+         "Mag" denotes magnitude of signal
+         "f" denotes frequency domina signals from Fast Fourier Transforms (FFT)
+
+
+
+with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
